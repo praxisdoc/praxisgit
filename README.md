@@ -1,4 +1,4 @@
 praxisgit
 =========
 
-Erster Fester für Guthub in der Praxis
+Erster Tester für Guthub in der Praxis
